@@ -14,6 +14,11 @@
 <h2 align="left">Most Used Languages </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban0903)](https://github.com/esteban0903/github-readme-stats) 
+
+
+
+---
+
 <h2 align="left">Knowledges </h2>
 
 <table>
@@ -23,6 +28,16 @@
          <span><b>Python 3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+<hr>
 <a href="https://github.com/esteban0903">
   <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>      
+</a>   
+
+</p>
+
+<p align="center">
