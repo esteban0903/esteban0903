@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Esteban Aguilera <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
-<p  align ="left"> I'm a software engineer student 💻 who is passionate about software development.</p>
+<p  align ="left"> I'm a systems engineering student 💻 who is enthusiastic about software development.</p>
 
 *  I'm currently studying at the Escuela Colombiana de Ingeniería Julio Garavito.
 
