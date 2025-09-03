@@ -1,43 +1,45 @@
-<h1 align="center">Hi, I'm Esteban Aguilera <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> </h1>
-<p  align ="left"> I'm a systems engineering student 💻 who is enthusiastic about software development.</p>
-
-*  I'm currently studying at the Escuela Colombiana de Ingeniería Julio Garavito.
-
-
-<h2 align="left">GitHub Status </h2>
-
-
-<div>
-    <img  src="https://github-readme-stats.vercel.app/api?username=esteban0903&show_icons=true&theme=dracula")>
-</div>
-
-<h2 align="left">Most Used Languages </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban0903)](https://github.com/esteban0903/github-readme-stats) 
-
-
+<h1 align="center">Hi 👋, I'm Esteban Aguilera</h1>
+<h3 align="center">💻 Systems Engineering Student | Software Development Enthusiast 🚀</h3>
 
 ---
 
-<h2 align="left">Knowledges </h2>
+### 👨‍💻 About Me
+- 🎓 I'm currently studying **Systems Engineering** at *Escuela Colombiana de Ingeniería Julio Garavito*  
+- 💡 Passionate about **backend development**, **databases**, and exploring new technologies  
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-         <span><b>Python 3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</p>
+---
 
-<hr>
-<a href="https://github.com/esteban0903">
-  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>   
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esteban0903&show_icons=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban0903&layout=compact&theme=dracula" height="165"/>
+</div>
 
-</p>
+---
 
+### 🛠️ Tech Stack
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/esteban0903" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+⭐️ From [Esteban Aguilera](https://github.com/esteban0903)
