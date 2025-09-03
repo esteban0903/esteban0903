@@ -35,7 +35,7 @@
   <a href="https://github.com/esteban0903" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/esteban-aguilera-contreras" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
